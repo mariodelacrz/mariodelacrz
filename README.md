@@ -5,7 +5,7 @@ Hello! I am a passionate web developer with experience in HTML, CSS and JavaScri
 <b>Experience</b>
 - Technologies: HTML, CSS, JavaScript
 - Specialization: Front-end web development
-- Featured projects: Project A, Project B, Project C
+- Featured projects: Mr.Tienda
   
 <b>Collaboration</b>
 
